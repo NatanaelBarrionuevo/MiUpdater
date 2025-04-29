@@ -1,12 +1,12 @@
 ;aiu;
 
 [Update]
-Name = AppPrueba
-ProductVersion = 2.0.0.0
-URL = https://natanaelbarrionuevo.github.io/MiUpdater/SetUpAppPruebaV200.exe
-Size = 17531128
-SHA256 = 81ED675222E020384EB8F5AEC38C213BC3C1B8D31EB65B9DD5BF792633BED097
-MD5 = 1a95dec4819fb6754be985625898bcd9
-ServerFileName = SetUpAppPruebaV200.exe
-RegistryKey = HKUD\Software\MEGEVAND SOFT S.R.L.\AppPrueba\Version
-Version = 2.0.0.0
+Name = OP 2.1 CORE
+ProductVersion = 1.0.4.0
+URL = https://natanaelbarrionuevo.github.io/MiUpdater/OP 2.1 CORE PATCH.exe
+Size = 8494220
+SHA256 = 77FEEF2772A628D5F9BDB4A52AA81E9C82C603F8DC20141810783A165A0B6C3A
+MD5 = b02f35b96e08eb735f788bf2ff9a8634
+ServerFileName = OP 2.1 CORE PATCH.exe
+RegistryKey = HKUD\Software\MEGEVAND SOFT S.R.L\OP 2.1 CORE\Version
+Version = 1.0.4.0
